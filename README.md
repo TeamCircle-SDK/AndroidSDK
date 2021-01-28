@@ -1,4 +1,4 @@
-# TEAM CIRCLE SDK
+# TEAM CIRCLE ANDROID SDK
 
 ## Table of contents
 1. [Introduction](#introduction)
